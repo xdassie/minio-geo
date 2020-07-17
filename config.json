@@ -1,0 +1,9 @@
+{
+	"version": "33",
+	"region": "",
+	"worm": "off",
+	"storageclass": {
+		"standard": "",
+		"rrs": ""
+	}
+}
